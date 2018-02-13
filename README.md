@@ -7,3 +7,4 @@ App works with polish cities.
 
 ### Preview
 
+![Alt text](https://raw.githubusercontent.com/mroozspace/WeatherApp/master/weather-app.png)
